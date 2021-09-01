@@ -1,16 +1,26 @@
-### Hi there 👋
+## Hello World 👋
 
-<!--
-**Jonntz/Jonntz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:brain: Atual estudante de Análise e Desenvolvimento de Sistemas <br>
+:computer: Desenvolvedor fullstack na 42Dias <br>
+:house: São Paulo, SP - Brasil <br>
+:desktop_computer: Técnico em informática
 
-Here are some ideas to get you started:
+<div>
+  <a href="https://github.com/Jonntz">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jonntz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonntz&layout=compact&langs_count=7&theme=dark"/>
+</div>
+  
+##
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Principais especialidades
+  
+<div style="display: inline_block;"><br>
+  <img align="center" alt="Jonntz-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Jonntz-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Jonntz-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Jonntz-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Jonntz-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg">
+  <img align="center" alt="Jonntz-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Jonntz-Django" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg">
+</div>
