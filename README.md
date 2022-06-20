@@ -1,7 +1,7 @@
 ## Hello World 👋
 
 :brain: Atual estudante de Análise e Desenvolvimento de Sistemas <br>
-:computer: Desenvolvedor fullstack na 42Dias <br>
+:computer: Desenvolvedor frontend na Império Inteligência <br>
 :house: São Paulo, SP - Brasil <br>
 :desktop_computer: Técnico em informática
 
