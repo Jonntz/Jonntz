@@ -1,7 +1,6 @@
 ## Hello World 👋
 
-:brain: Atual estudante de Análise e Desenvolvimento de Sistemas <br>
-:computer: Desenvolvedor frontend na Império Inteligência <br>
+:brain: Formado em estudante de Análise e Desenvolvimento de Sistemas <br>
 :house: São Paulo, SP - Brasil <br>
 :desktop_computer: Técnico em informática
 
