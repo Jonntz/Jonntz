@@ -1,8 +1,8 @@
 ## Hello World 👋
 
-:brain: Formado em estudante de Análise e Desenvolvimento de Sistemas <br>
+:brain: Formado em Análise e Desenvolvimento de Sistemas pela Cruzeiro do Sul<br>
 :house: São Paulo, SP - Brasil <br>
-:desktop_computer: Técnico em informática
+:desktop_computer: Técnico em informática pela ETEC de Itaquera
 
 <div>
   <a href="https://github.com/Jonntz">
