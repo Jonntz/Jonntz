@@ -1,6 +1,8 @@
 ## Hello World 👋
 
 :brain: Formado em Análise e Desenvolvimento de Sistemas pela Cruzeiro do Sul<br>
+:brain: Cursando Arquitetura de Software em Java<br>
+:brain: Cursando Arquitetura de Soluções em .NET<br>
 :house: São Paulo, SP - Brasil <br>
 :desktop_computer: Técnico em informática pela ETEC de Itaquera
 
@@ -20,7 +22,6 @@
   <img align="center" alt="Jonntz-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Jonntz-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg">
   <img align="center" alt="Jonntz-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Jonntz-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Jonntz-C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg">
   <img align="center" alt="Jonntz-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
 </div>
